@@ -1,7 +1,7 @@
 package julien_brunet.aquarium;
 
 /**
- * 
+ *
  */
 public abstract class AbstractAnimal {
 
