@@ -8,7 +8,7 @@ import julien_brunet.aquarium.PoissonClown;
 /**
  * un commit incompréhensible!!!
  *
- *
+ *classe qui ....
  */
 public class Main {
     public static void main(String[] args) {
