@@ -5,7 +5,7 @@
  * Prénom: Parfait Antoine
  */
 
-package parfait_mbega.algues;
+package parfait_mbega.aquarium.algues;
 
 
 public class Algue {
