@@ -1,5 +1,4 @@
-package etudiant05.aquarium;
-
+package LuccaBertoncello.aquarium;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,6 +6,7 @@ public class Aquarium {
 
     private List<Poisson> poissons = new ArrayList<>();
     private int capaciteMax;
+
 
     public Aquarium(int capaciteMax) {
         this.capaciteMax = capaciteMax;
