@@ -1,9 +1,9 @@
-package etudiant07;
+package LuccaBertoncello;
 
-import etudiant07.aquarium.Aquarium;
-import etudiant07.aquarium.Piranha;
-import etudiant07.aquarium.Poisson;
-import etudiant07.aquarium.PoissonClown;
+import LuccaBertoncello.aquarium.Aquarium;
+import LuccaBertoncello.aquarium.Piranha;
+import LuccaBertoncello.aquarium.Poisson;
+import LuccaBertoncello.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,6 +13,7 @@ public class Main {
         Poisson p1 = new PoissonClown("Nemo", 2, "orange");
         Poisson p2 = new Piranha("Terreur", 3, "bleu");
 
+        
         aquarium.ajouterPoisson(p1);
         aquarium.ajouterPoisson(p2);
 
