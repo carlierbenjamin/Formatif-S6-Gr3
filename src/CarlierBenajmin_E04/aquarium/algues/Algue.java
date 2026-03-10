@@ -1,4 +1,4 @@
-package CarlierBenajmin_E04.algues;
+package CarlierBenajmin_E04.aquarium.algues;
 
 /**
  * 420-266-H26 – POO II
@@ -10,7 +10,7 @@ public class Algue {
     //attributs
 
     //constructeur
-    
+
     //getter
 
     //setter
